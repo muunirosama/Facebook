@@ -21,7 +21,7 @@ class LoginScreen extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             Padding(
-              padding: const EdgeInsets.symmetric(vertical: 60),
+              padding: const EdgeInsets.symmetric(vertical: 63),
               child:  Image.asset("assets/images/Vector.png"),
             ),
             const SizedBox(height: 10),
@@ -35,7 +35,7 @@ class LoginScreen extends StatelessWidget {
                 ),
               ),
             ),
-           const SizedBox(height: 40),
+           const SizedBox(height: 43),
             TextField(
               decoration: InputDecoration(
                 filled: true,

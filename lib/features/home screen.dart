@@ -236,7 +236,7 @@ class HomeScreen extends StatelessWidget {
                             ],
                           ),
                         ),
-                        Image.asset("assets/images/Rectangle 10.png"),
+                        Image.asset("assets/images/Rectangle 10 (1).png"),
                         const Padding(
                           padding: EdgeInsets.symmetric(horizontal: 12.0),
                           child: Row(
@@ -305,7 +305,7 @@ class HomeScreen extends StatelessWidget {
                             ],
                           ),
                         ),
-                        Image.asset("assets/images/Rectangle 10.png"),
+                        Image.asset("assets/images/Rectangle 10 (1).png"),
 
                         const Padding(
                           padding: EdgeInsets.symmetric(horizontal: 12.0),
